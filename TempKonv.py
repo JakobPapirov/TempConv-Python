@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Program file-name: TempKonv
+# Author: Jakob Papirov
+# Date created | last updated: 2014-01-16 | 2014-01-17
+
 print('Detta program låter dig konvertera mellan Fahrenheit, Celcius och Kelvin')
 
 iterera = 'True'
